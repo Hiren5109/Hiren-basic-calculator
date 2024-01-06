@@ -1,1 +1,1 @@
-# Hiren's-basic-calculator
+# Hiren-basic-calculator
